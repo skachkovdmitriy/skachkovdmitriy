@@ -85,7 +85,27 @@
 <ul>
 <li>  <a href="https://github.com/skachkovdmitriy/Demoshopping-testing.git">Demoshopping testing</a> исследовательское и функциональное тестирование. </li>
 </ul>
-
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/API-Testing.git">API testing</a> REST и SOAP с помощью Postman. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/SQL.git">MySQL</a> Запросы проверки базы данных. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/mongodb.git">MongoDB</a> NoSQL запросы. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/android-testing.git">Android App Testing </a> Тестовые примеры и отчеты об ошибках. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/Charles-proxy.git">Charles Proxy </a> Имитационные ответы и проверка сети. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/git.git">Git </a> Основные команды управления версиями. </li>
+</ul>
+<ul>
+<li>  <a href="https://github.com/skachkovdmitriy/bash.git">Bash</a> Скрипты для задач. </li>
+</ul>
 ---
 
 <!-- ### 💻 Пройденные курсы:
