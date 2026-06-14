@@ -3,16 +3,15 @@
 I am a junior QA engineer focused on software quality assurance. <br>Here I share my work in testing web and mobile applications. <br>
  I invite you to explore my <a href = "https://docs.google.com/document/d/1IOc4Ofrd136iAKW8HnGVdtIDzHwVyTPyoe_4LIkeTX4/edit?usp=sharing"> <strong><em>resume</em></strong> </a>
 
- - 💼 <strong>To contact me:</strong> <a href="https://mail.google.com/mail/qa.dmitriyskachkov@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="70" height="22" alt="gmail" />
+ - 💼 <strong>To contact me:</strong> 
+  <span style="white-space: nowrap;">  <a href="https://mail.google.com/mail/qa.dmitriyskachkov@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" width="60" height="22" alt="gmail" />
+    </a> <a href="https://t.me/sk_dmitry" target="_blank">
+      <img src="https://img.icons8.ru/?size=100&id=723oq2fWeWww&format=png&color=000000" width="26" height="26" alt="telegram" />
+    </a> <a href="https://max.ru/u/f9LHodD0cOLXioxhXHB2pPssmQmBMIBKkeSyxoV61yQeBiDWmeqjMdPz284" target="_blank">
+      <img src="https://logo-teka.com/wp-content/uploads/2025/07/max-messenger-sign-logo.png" width="27" height="27" alt="max" />
     </a> 
- <a href="https://t.me/sk_dmitry" target="_blank">
-      <img src="https://img.icons8.ru/?size=100&id=723oq2fWeWww&format=png&color=000000" width="26" height="25" alt="telegram" />
-    </a> 
-  <a href="https://max.ru/u/f9LHodD0cOLXioxhXHB2pPssmQmBMIBKkeSyxoV61yQeBiDWmeqjMdPz284" target="_blank">
-      <img src="https://logo-teka.com/wp-content/uploads/2025/07/max-messenger-sign-logo.png" width="28" height="26" alt="max" />
-    </a> 
-
+</span>
 
 
 - 🤝 <strong>Profiles:</strong> &nbsp;
@@ -89,7 +88,7 @@ I am a junior QA engineer focused on software quality assurance. <br>Here I shar
 <ul>
 <li>  
 <a href= "https://github.com/skachkovdmitriy/Store-manager.git">Store manager</a> - 3 microservices testing <br> 
-&nbsp<a href="https://github.com/skachkovdmitriy/Demoshopping-testing.git">Demoshopping testing</a> / <a href= "https://github.com/skachkovdmitriy/Demo.nopcommerce-testing.git">Demo.nopcommerce testing</a> exploratory / functional testing.  </li>
+&nbsp<a href="https://github.com/skachkovdmitriy/Demoshopping-testing.git">demoshopping testing</a> / <a href= "https://github.com/skachkovdmitriy/Demo.nopcommerce-testing.git">demo.nopcommerce testing</a> exploratory / functional testing.  </li>
 <li>  <a href="https://github.com/skachkovdmitriy/API-testing.git">API testing</a> REST / SOAP / Postman. </li>
 <li>  <a href="https://github.com/skachkovdmitriy/SQL.git">MySQL</a> queries & database testing. </li>
 <li>  <a href="https://github.com/skachkovdmitriy/mongodb.git">MongoDB</a> NoSQL queries. </li>
