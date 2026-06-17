@@ -9,7 +9,7 @@ I am a junior QA engineer focused on software quality assurance. <br>Here I shar
     </a> <a href="https://t.me/sk_dmitry" target="_blank">
       <img src="https://img.icons8.ru/?size=100&id=723oq2fWeWww&format=png&color=000000" width="26" height="26" alt="telegram" />
     </a> <a href="https://max.ru/u/f9LHodD0cOLXioxhXHB2pPssmQmBMIBKkeSyxoV61yQeBiDWmeqjMdPz284" target="_blank">
-      <img src="https://logo-teka.com/wp-content/uploads/2025/07/max-messenger-sign-logo.png" width="27" height="27" alt="max" />
+      <img src="https://logo-teka.com/wp-content/uploads/2025/07/max-messenger-sign-logo.png" width="28" height="27" alt="max" />
     </a> 
 </span>
 
@@ -44,7 +44,6 @@ I am a junior QA engineer focused on software quality assurance. <br>Here I shar
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://camo.githubusercontent.com/1d81aaa04c613e02733b5461bac41ea30bc7bde88376aac5c65e86f4019d71d9/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733230302f466964646c65722d457665727977686572652d49636f6e2e706e67" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp
@@ -80,14 +79,16 @@ I am a junior QA engineer focused on software quality assurance. <br>Here I shar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.ru/?size=100&id=lhwQTv6iwznO&format=png&color=000000" title="redis" alt="redis" width="40" height="40"/>&nbsp
-</div>
+  <img src="https://img.icons8.ru/?size=100&id=JRnxU7ZWP4mi&format=png&color=000000" title="postgreSQL" alt="postgreSQL" width="40" height="40"/>&nbsp
+</div> 
 
 
 
 <h2> 📋 Testing projects:</h2>
 <ul>
 <li>  
-<a href= "https://github.com/skachkovdmitriy/Store-manager.git">Store manager</a> - 3 microservices testing <br> 
+<a href= "https://github.com/skachkovdmitriy/Store-manager.git">Store manager</a> - 
+testing 4 releases <br> 
 &nbsp<a href="https://github.com/skachkovdmitriy/Demoshopping-testing.git">demoshopping testing</a> / <a href= "https://github.com/skachkovdmitriy/Demo.nopcommerce-testing.git">demo.nopcommerce testing</a> exploratory / functional testing.  </li>
 <li>  <a href="https://github.com/skachkovdmitriy/API-testing.git">API testing</a> REST / SOAP / Postman. </li>
 <li>  <a href="https://github.com/skachkovdmitriy/SQL.git">MySQL</a> queries & database testing. </li>
